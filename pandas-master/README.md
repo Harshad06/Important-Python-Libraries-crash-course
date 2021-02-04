@@ -1,4 +1,4 @@
 # pandas
 
-Data & Code associated with my tutorial on the pandas library of Python.
+Data & Code associated with the pandas library of Python.
 
