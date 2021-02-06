@@ -6,3 +6,8 @@ NumPy chapter description:-
     Section 1: NumPy Arrays and metrics 
     Section 2 : Indexing and Selection/Slicing 
     Section 3: NumPy Operations : Mathematics & Statistics 
+   
+
+Pandas:- 
+
+    Data & Code associated with the pandas library of Python.
